@@ -74,6 +74,7 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceará. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
+    https://github-readme-stats.vercel.app/api?username=Freej0l&show_icons=true&theme=tokyonight
   />
 
   <img 
