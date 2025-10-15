@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Ysabelle Lorena
+# ☕ Ysabelle Lorena
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Java | Estudante de Matemática Computacional`**
 
-Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceara.fiz curso preparatorio de TI no colegio Moreira de Souza.Atualmente estou Cursando na UFCA, com o curso Matematica Computacional.
+Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceará. Fiz curso preparatório de TI no Colégio Moreira de Souza. Atualmente, curso Matemática Computacional na UFCA, em Juazeiro do Norte. Tenho paixão por desenvolvimento backend, lógica de programação e soluções com Java.
+
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
@@ -15,8 +16,16 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceara.fi
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -32,22 +41,6 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceara.fi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
@@ -80,11 +73,10 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceara.fi
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
