@@ -5,7 +5,7 @@
 Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceará. Fiz curso preparatório de TI no Colégio Moreira de Souza. Atualmente, curso Matemática Computacional na UFCA, em Juazeiro do Norte. Tenho paixão por desenvolvimento backend, lógica de programação e soluções com Java.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ylairen?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
