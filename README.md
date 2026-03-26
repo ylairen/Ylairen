@@ -60,8 +60,6 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceará. 
 
 #### 🐍 Python
 
-####  C
-
 #### 🌐 HTML | CSS
 
 -https://github.com/ylairen/HTML-CSS
