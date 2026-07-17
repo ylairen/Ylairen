@@ -57,11 +57,13 @@ Me chamo Ysabelle Lorena Pessoa Gouveia, tenho 20 anos e sou natural do Ceará. 
 <b>ESTUDO</b>
 
 #### ☕ Java 
+(PROJETO DE LIVRARIA SIMPLES APLICANDO OS CONCEITOS DE POO)
+-https://github.com/ylairen/Livraria_POO_JAVA/tree/master
 
 #### 🐍 Python
 
 #### 🌐 HTML | CSS
-
+(PROJETOS DE SITES)
 -https://github.com/ylairen/HTML-CSS
 
 +=================================================================================+
